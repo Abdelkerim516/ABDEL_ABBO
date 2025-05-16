@@ -1,5 +1,5 @@
 # ABDEL_ABBO
-# 👋 Salut ! Moi c’est [Ton Nom ou Pseudo]
+# 👋 Salut ! Moi c’est [Abdelkerim Abbo]
 
 🎓 Étudiant en informatique | 💻 Passionné par le développement web et mobile  
 🌍 Basé au Tchad | 🚀 En route pour devenir ingénieur logiciel
@@ -18,13 +18,13 @@
 ## 🛠️ Compétences
 
 - HTML / CSS / JavaScript
-- Python / C
+- Python
 - Flutter (Dart)
 - Firebase / MySQL
 
 ---
 
-## 📈 Stats GitHub
+
 
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=radical)
 ![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=radical)
