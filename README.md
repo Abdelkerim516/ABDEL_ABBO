@@ -1,14 +1,13 @@
 <!-- Bannière (optionnelle) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Salut%20👋%20Moi%20c'est%20[ABDEL_ABBO]!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,100:00dbde&height=200&section=header&text=Salut%20👋%20Moi%20c'est%20ABDELKERIM ABBO!&fontSize=40&fontColor=ffffff&animation=twinkling" alt="banner"/>
 </p>
 
 ---
 
 ### 👨‍💻 À propos de moi
 
-🎓 Étudiant en **Informatique de gestion**  
-💡 Je développe des **applications mobiles**, **logiciels** et **sites web**  
+🎓 Étudiant en **Informatique**    
 🌍 Basé au **Tchad**, passionné par la tech et l’éducation numérique  
 🚀 Objectif : Devenir **Ingénieur Logiciel** et créer ma propre startup tech
 
@@ -37,27 +36,7 @@
 
 ---
 
-### 📈 Statistiques GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tonpseudo&show_icons=true&theme=tokyonight" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonpseudo&theme=tokyonight" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonpseudo&layout=compact&theme=tokyonight" width="60%" />
-</p>
-
----
-
-### 📚 Projets en cours
-
-- 📱 **App éducative mobile** pour les élèves de primaire/collège *(vidéos, quiz, points)*
-- 📦 **Site de gestion de documents** pour les transitaires : [Voir le concept](https://cargox.io/)
-- 🧠 **Plateforme de cours en ligne centralisés** comme Class Central
-- ⚙️ **Logiciel de gestion centralisée** pour orphelinats/pharmacies
-
----
 
 ### 🌐 Me retrouver ailleurs
 
