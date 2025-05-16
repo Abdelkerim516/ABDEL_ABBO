@@ -18,7 +18,6 @@
 ## 🛠️ Compétences
 
 - HTML / CSS / JavaScript
-- Python
 - Flutter (Dart)
 - Firebase / MySQL
 
@@ -33,6 +32,6 @@
 
 ## 📫 Me contacter
 
-- ✉️ Email : tonmail@example.com  
-- 🌐 Portfolio : [tonsite.com](https://tonsite.com)
+- ✉️ Email : abdelkerimalisalehabbo@gmai.com
+
 
