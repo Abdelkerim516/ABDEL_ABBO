@@ -40,10 +40,9 @@
 
 ### 🌐 Me retrouver ailleurs
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tonprofil)
-[![Email](https://img.shields.io/badge/Mail-E-Mail-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonmail@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Site_Perso-blueviolet?style=for-the-badge)](https://tonsite.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github)](https://github.com/tonpseudo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelkerim-ali-saleh-abbo)
+[![Email](https://img.shields.io/badge/Mail-E-Mail-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelkerimalisalehabbo@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profil-181717?style=for-the-badge&logo=github)](https://github.com/Abdelkerim516)
 
 ---
 
